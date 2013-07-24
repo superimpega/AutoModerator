@@ -42,7 +42,11 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'overplayed',
                 'skiiip',
                 'brbr',
-                'brbrbr'
+                'brbrbr',
+                'HUE HUE',
+                'H U E',
+                'H U E H U E',
+                'B R A Z I L'
         ],
 	mutedUsers: [],
 	init: function() {
