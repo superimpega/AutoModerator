@@ -7,7 +7,7 @@ var autoModeratorModel = require('app/base/Class').extend({
 	bannedWords: [
 		'huehue',
 		'hu3hu3',
-		'ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ',
+		'raise your donger',
                 'skip',
                 'fan',
                 'mute',
@@ -40,7 +40,9 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'skip this crap',
                 'skip this shit',
                 'overplayed',
-                'skiiip'
+                'skiiip',
+                'brbr',
+                'brbrbr'
         ],
 	mutedUsers: [],
 	init: function() {
