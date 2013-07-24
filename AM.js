@@ -39,7 +39,8 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'skiip',
                 'skip this crap',
                 'skip this shit',
-                'overplayed'
+                'overplayed',
+                'skiiip'
         ],
 	mutedUsers: [],
 	init: function() {
