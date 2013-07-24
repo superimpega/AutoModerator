@@ -8,10 +8,10 @@ var autoModeratorModel = require('app/base/Class').extend({
 		'hue',
 		'hu3',
 		'br',
-    'skip',
-    'fan',
-    'mute'
-	],
+                'skip',
+                'fan',
+                'mute'
+        ],
 	mutedUsers: [],
 	init: function() {
 		this.proxy = {
