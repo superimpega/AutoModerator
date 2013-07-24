@@ -5,9 +5,9 @@ String.prototype.equalsIgnoreCase     = function(other)    { return typeof other
 var autoModeratorModel = require('app/base/Class').extend({
 	version: "1.0.3",
 	bannedWords: [
-		'hue',
-		'hu3',
-		'br',
+		'huehue',
+		'hu3hu3',
+		'ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ',
                 'skip',
                 'fan',
                 'mute',
