@@ -8,7 +8,7 @@ var autoModeratorModel = require('app/base/Class').extend({
 		'huehue',
 		'hu3hu3',
 		'raise your donger',
-                'skip',
+                'skip this',
                 'fan',
                 'mute',
                 'f4n',
