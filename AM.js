@@ -3,7 +3,7 @@ if (autoModerator !== undefined)
 
 String.prototype.equalsIgnoreCase     = function(other)    { return typeof other !== 'string' ? false : this.toLowerCase() === other.toLowerCase(); };
 var autoModeratorModel = require('app/base/Class').extend({
-	version: "1.0.3",
+	version: "1.0.5",
 	bannedWords: [
 		'huehue',
 		'hu3hu3',
